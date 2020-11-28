@@ -1,0 +1,13 @@
+STRINGTABLE
+LANGUAGE LANG_UZBEK, SUBLANG_DEFAULT
+{
+300, "Tezkor tugma"
+301, "Qoʻllamoq"
+302, "Bekor qilmoq"
+
+310, "Tanlamoq"
+
+320, "Yoqmoq"
+
+350, "Yoʻq"
+}

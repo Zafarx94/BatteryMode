@@ -1,0 +1,80 @@
+STRINGTABLE
+LANGUAGE LANG_UZBEK, SUBLANG_DEFAULT
+{
+700, "N/A"
+701, "Nomaʼlum"
+
+704, "Elektrquvvati tizimi"
+705, "Batareya xossasi"
+
+710, "Qurilma nomi"
+711, "Ishlab chiqaruvchi"
+712, "Chiqarilgan sanasi"
+713, "Seriya raqami"
+714, "Batareya turi"
+715, "Quvvatlash/elektrsizlanish davriyligi"
+716, "Eskirish darajasi"
+717, "Holati"
+718, "Yangi holatdagi quvvat sigʻimi"
+719, "Hozirgi toʻliq quvvat sigʻimi"
+720, "Ayni damdagi sigʻimi"
+721, "Batareya kuchlanishi"
+722, "Quvvatlash/elektrsizlanish tezligi"
+723, "Quvvatlash tezligi"
+724, "Elektrsizlanish tezligi"
+725, "1-trevoga signali"
+726, "2- trevoga signali"
+727, "Harorati"
+
+740, "Qayta quvvatlanmaydigan %0:s"
+741, "Qayta quvvatlanadigan %0:s"
+742, "Qayta quvvatlanmaydi"
+743, "Qayta quvvatlanadi"
+
+745, "Elektr tarmogʻiga ulangan"
+746, "Quvvat olmoqda"
+747, "Toʻliq quvvatlangan"
+748, "Elektr tarmogʻiga ulanmagan"
+
+750, "&Koʻrinish"
+751, "&Barcha darchalardan yuqorida"
+
+755, "&Fayl"
+756, "&Yopmoq"
+757, "&Saqlamoq"
+758, "Quyidagidek &saqlamoq..."
+759, "Barcha fayllar"
+760, "Matn faylida"
+761, "Jurnal faylida"
+
+765, "Elektrquvvati xossasi"
+
+770, "Hozirgi quvvat manbai"
+771, "Batareya holati"
+772, "Batareya bilan toʻliq ishlash vaqti"
+773, "Qolgan ishlash vaqti"
+
+775, "%0:u s. %1:.2u daq."
+776, "%1:u daq."
+
+780, "Elektr tarmogʻidan"
+781, "ИБП"
+782, "Batareya"
+
+784, "Batareya mavjud emas"
+785, "%0:d%% (Yuqori, Quvvatda)"
+786, "%0:d%% (Past, Quvvatda)"
+787, "%0:d%% (Oʻta past, Quvvatda)"
+788, "%0:d%% (Quvvatda)"
+789, "%0:d%% (Yuqori)"
+790, "%0:d%% (Past)"
+791, "%0:d%% (Oʻta past)"
+792, "%0:d%%"
+793, "Yuqori, Quvvatda"
+794, "Past, Quvvatda"
+795, "Oʻta past, Quvvatda"
+796, "Quvvatda"
+797, "Yuqori"
+798, "Past"
+799, "Oʻta past"
+}

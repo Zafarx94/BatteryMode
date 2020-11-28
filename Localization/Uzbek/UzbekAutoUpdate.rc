@@ -1,0 +1,17 @@
+STRINGTABLE
+LANGUAGE LANG_UZBEK, SUBLANG_DEFAULT
+{
+900, "Yangilash"
+901, "Yangi %0:s versiyasi mavjud!"
+902, "%0:s %1:s yuklab olish uchun mavjud (versiyangiz %2:s). Hoziroq yuklab olishni xohlaysizmi?"
+903, "Yangi versiya oʻzgarishlari:"
+904, "Oʻrnatmaslik"
+905, "Hozir emas"
+906, "Oʻrnatmoq"
+907, "Yangi versiya mavjud emas"
+908, "Siz eng soʻnggi %0:s %1:s versiyadan foydalanayapsiz"
+909, "Yopmoq"
+910, "Yangi versiyani yuklab olishda xatolik yuz berdi"
+911, "Ilovani yangilab boʻlmadi"
+912, "Joriy versiya"
+}

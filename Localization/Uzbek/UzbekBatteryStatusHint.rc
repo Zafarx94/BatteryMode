@@ -1,0 +1,28 @@
+STRINGTABLE
+LANGUAGE LANG_UZBEK, SUBLANG_DEFAULT
+{
+600, "Noutbuk emas"
+
+621, "Ulangan va quvvatlanmoqda"
+622, "Toʻliq quvvatlashga %0:u s. %1:.2u daq. qoldi"
+623, "Toʻliq quvvatlashga %1:u daq. qoldi"
+624, "%2:u%% quvvat bor (ulangan, quvvatlanmoqda)"
+625, "%2:u%% quvvat bor (ulangan, quvvatlanmayapti)"
+626, "Toʻliq quvvatlangan (100%%)"
+627, "Batareya yoʻq"
+628, "Ulangan va quvvatlanmayapti"
+
+650, "%0:u s. %1:.2u daq. qoldi (%2:u%%)"
+651, "%1:u daq. qoldi (%2:u%%)"
+654, "%2:u%% qoldi"
+655, "Aniq emas"
+
+670, "Quvvati: %2:u%%\nBatareyani almashtirish tavsiya etiladi."
+671, "Qolgan quvvat aniq emas\nBatareyani almashtirish tavsiya etiladi."
+672, "Ulangan va quvvatlanmoqda\nBatareyani almashtirish tavsiya etiladi."
+673, "Quvvati: %2:u%% (ulangan va quvvatlanmoqda)\nBatareyani almashtirish tavsiya etiladi."
+674, "Quvvati: %2:u%% (ulangan, lekin quvvatlanmayapti)\nBatareyani almashtirish tavsiya etiladi."
+675, "Toʻliq quvvatlangan (100%%)\nBatareyani almashtirish tavsiya etiladi."
+
+680, "Quvvatni tejash faol"
+}

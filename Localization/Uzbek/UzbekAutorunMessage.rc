@@ -1,0 +1,9 @@
+STRINGTABLE
+LANGUAGE LANG_UZBEK, SUBLANG_DEFAULT
+{
+500, "Ilova administrator imtiyozisiz avtokirishga qoʻshildi."
+501, "Ilova Avtokirishga qoʻshildi."
+502, "Ilova Avto kirishdan oʻchirildi."
+503, "Avtokirishga qoʻshishda xatolik yuz berdi."
+504, "Avtokirishdan oʻchirishda xatolik yuz berdi."
+}

@@ -1,0 +1,74 @@
+﻿"Battery Mode" dasturiy taʼminotining litsenziya shartnomasi
+
+16.11.2020 yil nashr
+
+Iltimos, tegishli dasturiy taʼminotni ishlatishdan oldin litsenziya shartnomasi shartlarini diqqat bilan oʻqib chiqing.
+
+Oʻrnatish, shuningdek "Battery Mode" dasturidan foydalanish sizning ushbu litsenziya shartnomasi shartlarini qabul qilganingizni koʻrsatadi.
+
+Agar siz ushbu litsenziyaning shartlariga rozi boʻlmasangiz, "Battery Mode" fayllarini saqlash qurilmalaringizdan olib tashlashingiz va ushbu dasturiy mahsulotdan foydalanishni davom ettirishingiz kerak.
+
+Battery Mode ("Dasturiy taʼminot") bepul ("Freeware") va "boricha" asosida tarqatiladi.
+
+1. Mualliflik huquqining obyektlari
+
+1.1. "Battery Mode" dasturiy taʼminotining barcha mualliflik huquqlari faqat dastur muallifi - Artem Tarasovga tegishli (keyingi oʻrinlarda Muallif, mualliflik huquqi egasi).
+1.2. Dastlabki tarqatishga kiritilgan uchinchi tomon tarkibiy qismlariga boʻlgan barcha huquqlar tegishli komponentlarning mualliflik huquqi egalariga tegishli.
+1.3. Uchinchi tomon mahsulotlari va tarkibiy qismlari tarqatish paketiga ularning mualliflik huquqi egalarining tegishli roziligi bilan kiritilgan (shu jumladan litsenziya shartnomasiga rioya qilish rozilik deb hisoblanadi).
+1.4. Battery Mode dasturi dasturiy taʼminot foydalanuvchilari tomonidan ixtiyoriy ravishda ishlab chiqilgan lokalizatsiya manbalarini oʻz ichiga oladi. Mavjud tarjimalar roʻyxatining mualliflari koʻrsatilgan holda hozirgi versiyasi bilan https://bmode.tarcode.ru/download manzilida tanishish mumkin. Battery Mode dasturini rus va ingliz tillaridan boshqa tillarga tarjima qilish uchun mualliflik huquqi tarjimani taqdim etgan foydalanuvchilarga tegishli.
+1.5. Ushbu Litsenziya shartnomasi Rossiya Federatsiyasi qonunlari va mualliflik huquqi toʻg'risidagi xalqaro qonunlar bilan tartibga solinadi.
+1.6. "Battery Mode" manba kodi https://github.com/tarcode-apps/BatteryMode saytida ochiq.
+
+2. Foydalanish
+
+2.1. Battery Modeni uy kompyuterlarida ham, har qanday mulk shaklidagi tashkilotlarda, shu jumladan davlat va shahar muassasalarida ham kompyuterda oʻrnatish va ishlatish huquqiga egasiz.
+2.2. Siz ushbu dasturiy taʼminotni original tarqatish toʻplami shaklida yoki ushbu tarqatish toʻplamining ishlashi natijasida tanlangan oʻrnatish katalogida olingan asl fayllar shaklida bepul tarqatishingiz mumkin.
+2.3. Siz dasturiy taʼminot manba kodidan mahsulotning xatti-harakatlarini oʻrganish, shaxsiy ehtiyojlar uchun moslashtirish yoki yangi funksiyalarni ishlab chiqish uchun foydalanishingiz mumkin.
+
+3. Cheklovlar
+
+3.1. Ushbu dasturiy taʼminotni moddiy mukofotlash uchun tarqatishingizga ruxsat berilmaydi, agar mualliflik huquqi egasidan tegishli ruxsatnomangiz boʻlmasa.
+3.2. Mualliflik huquqi egasidan tegishli ruxsat olmasangiz, asl nusxadagi tarqatish toʻplamini qayta tarqatishingiz mumkin emas.
+3.3. Dastur mualliflari va mualliflik huquqi egalari toʻg'risidagi mualliflik huquqini yoki boshqa maʼlumotlarni oʻchirish taqiqlanadi.
+3.4. Dasturni ijaraga olish yoki ijaraga olish taqiqlanadi.
+3.5. Dasturiy taʼminot tarqatish toʻplamining har qanday oʻzgartirilgan fayllarini, shuningdek dasturiy taʼminotning bajariladigan va resurs fayllarini tarqatish taqiqlanadi, agar mualliflik huquqi egasidan tegishli ruxsat olmasangiz.
+3.6. Dasturiy taʼminotga intellektual mulk huquqlarini buzganligi uchun huquqbuzar qonun hujjatlariga muvofiq fuqarolik, maʼmuriy yoki jinoiy javobgarlikni oʻz zimmasiga oladi.
+3.7. GitHub-da https://github.com/tarcode-apps/BatteryMode Battery Mode dasturiy taʼminot omborida Pull Requests yaratishdan boshqa har qanday maqsadda dasturiy taʼminotning oʻzgartirilgan manba kodlarini tarqatish taqiqlanadi.
+3.8. Battery Mode asosida yaratilgan har qanday lotin mahsulotlarini mualliflik huquqi egasining tegishli ruxsatisiz tarqatish taqiqlanadi.
+
+4. Maxfiylik siyosati
+
+4.1. Maʼlumot toʻplandi va yuborildi
+Oʻrnatish vaqtida dastur tasodifiy hosil qilingan raqamli kod (keyingi oʻrinlarda UID) shaklida noyob identifikatorni yaratadi. UID shunday yaratilganki, u yaratilgan maʼlumotni hech qanday tarzda tiklash mumkin emas. UID ushbu dasturiy taʼminotni yangilash uchun soʻrov yuborilganda bizning serverimizga yuboriladi va faol foydalanuvchilar sonini (dasturning mashhurligini) aniqlash uchun ishlatiladi. Bundan tashqari, foydalanilgan lokalizatsiya, "Battery Mode" dasturiy taʼminot versiyasi, operatsion tizim versiyasi va uning zarralari haqida maʼlumot yangilanish serveriga yuboriladi. Ushbu maʼlumot sizning tilingiz va operatsion tizim versiyangiz uchun Battery Mode dasturiy taʼminotining yangilanishlari mavjudligini aniqlash uchun talab qilinadi. Dastur sozlamalarida yangilanishlarni avtomatik tekshirishni oʻchirib qoʻyish orqali ushbu maʼlumotni uzatishni rad etishingiz mumkin.
+
+5. Javobgarlikni cheklash
+
+5.1. Siz ushbu dasturiy taʼminotda xatolar boʻlishi mumkinligiga va shu sababli fayllarning zaxira nusxalarini yaratishda oʻzingiz g'amxoʻrlik qilishingiz kerakligiga rozilik bildirasiz.
+5.2. Mualliflik huquqi egasi dasturiy taʼminotning ishlashiga kafolat bermaydi.
+5.3. Dastur "boricha" asosda tarqatilishini hisobga olib, ushbu dasturdan oʻzingizning xavf-xataringiz bilan foydalanayotganingizni bilishingiz kerak. Mualliflik huquqi egasi har qanday yoʻqotish va / yoki zarar uchun (shu jumladan, etkazilgan zarar uchun) javobgar boʻlmaydi
+
+Delphi GDI+ Library for use with Delphi 2009 or later.
+Copyright (C) 2009 by Erik van Bilsen.
+this software is based in part on the Delphi
+GDI+ library by Erik van Bilsen
+
+WBEM Client interface Unit for Object Pascal
+
+Portions created by Microsoft are Copyright (C) 1995-2001 Microsoft
+
+The original file is: wbemcli.idl, released Nov 2002. The original Pascal
+code is: WbemCli.pas, released April 2002. The initial developer of the
+Pascal code is Marcel van Brakel (brakelm att chello dott nl).
+
+Portions created by Marcel van Brakel are Copyright (C) 1999-2001
+Marcel van Brakel. All Rights Reserved.
+
+Obtained through: Joint Endeavour of Delphi Innovators (Project JEDI)
+
+You may retrieve the latest version of this file at the Project JEDI
+APILIB home page, located at http://jedi-apilib.sourceforge.net
+
+The contents of this file are used with permission, subject to the Mozilla
+Public License Version 1.1 (the "License"); you may not use this file except
+in compliance with the License. You may obtain a copy of the License at
+http://www.mozilla.org/MPL/MPL-1.1.html
